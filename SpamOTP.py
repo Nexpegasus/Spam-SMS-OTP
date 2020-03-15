@@ -1,4 +1,20 @@
+clear
 
+cowsay -f eyes "Wellcome To Spam SMS OTP" |
+lolcat
+
+toilet -f standard --gay "By Nex - Pegasus"
+date | lolcat
+
+
+blue='\e[1;34m'
+green='\e[0;32m'
+purple='\e[1;35m'
+cyan='\e[1;36m'
+red='\e[1;31m'
+
+export PS1="\[\033[1;33m\]Root\[\033[1;37m\]@\[\033[1;32m\]\h\[\033[1;3$
+\[\033[1;36m\]\\$ \[\033[0m\]"$cyan;
 
 import requests,os,sys,time
 from bs4 import BeautifulSoup as BS
